@@ -131,6 +131,10 @@
           <entry><literal>assertContainsOnly($type, $haystack, $isNativeType = NULL, $message = '')</literal></entry>
         </row>
         <row>
+          <indexterm><primary>assertCount()</primary></indexterm>
+          <entry><literal>assertCount($expectedCount, $element, $message = '')</literal></entry>
+        </row>
+        <row>
           <indexterm><primary>assertEmpty()</primary></indexterm>
           <entry><literal>assertEmpty($actual, $message = '')</literal></entry>
         </row>
